@@ -69,7 +69,6 @@ link to the `reducer.js` file, so your code will be accessible from the console
   `reducer()` function:
 
 ```javascript
-reducer({count: 0}, {type: 'INCREASE_COUNT'});
 ```
 
 If you see a return value of `{count: 1}` then give yourself a big smile. :)
